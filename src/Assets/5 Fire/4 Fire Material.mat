@@ -85,7 +85,8 @@ Material:
     - _AddPrecomputedVelocity: 0
     - _AlphaClip: 0
     - _AlphaToMask: 0
-    - _Amplitude: 0.03
+    - _Amplitude: 0.05
+    - _Amplitude_0: 0.05
     - _Amplitude_1: 0.01
     - _Blend: 0
     - _BlendModePreserveSpecular: 1
@@ -101,6 +102,7 @@ Material:
     - _DstBlendAlpha: 0
     - _EnvironmentReflections: 1
     - _Frequency: 5
+    - _Frequency_0: 4
     - _Frequency_1: 7
     - _GlossMapScale: 0
     - _Glossiness: 0
@@ -112,6 +114,7 @@ Material:
     - _QueueOffset: 0
     - _ReceiveShadows: 1
     - _Scale: 7
+    - _Scale_0: 7
     - _Scale_1: 15
     - _Smoothness: 0.5
     - _SmoothnessTextureChannel: 0
@@ -119,9 +122,11 @@ Material:
     - _SrcBlend: 1
     - _SrcBlendAlpha: 1
     - _Surface: 0
-    - _Velocity: 0.7
-    - _Velocity_1: 1
+    - _Velocity: 0.5
+    - _Velocity_0: 0.7
+    - _Velocity_1: 1.2
     - _WaveNumber: 5
+    - _WaveNumber_0: 4
     - _WaveNumber_1: 7
     - _WorkflowMode: 1
     - _XRMotionVectorsPass: 1
