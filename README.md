@@ -36,6 +36,10 @@
 
 -- 工夫した点：xxx
 
+### 使用したテクスチャ
+砂利の地面
+https://www.pakutaso.com/20191118319post-24158.html
+
 ## 進め方
 
 - 本リポジトリ (tpu-game-2025/PGWS4_9_noise)をforkしてください
