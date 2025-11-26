@@ -34,11 +34,12 @@
 
 ![結果](Result7.gif)
 
--- 工夫した点：xxx
+- 工夫した点
+  - xxx
 
-### 使用したテクスチャ
-砂利の地面
-https://www.pakutaso.com/20191118319post-24158.html
+- 使用したテクスチャ
+  - [砂利の地面](https://www.pakutaso.com/20191118319post-24158.html)
+  - [木](https://polyhaven.com/a/bark_willow)
 
 ## 進め方
 
